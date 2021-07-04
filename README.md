@@ -17,8 +17,8 @@ Then, simply navigate to <http://localhost:4001/> to access the website from the
 ## Features
 
 The quote API can process the following requests:
-*GET a random quote from the database (in this case it is located in data.js)
-*GET all quotes from data.js
-*GET all quotes from a specific author from data.js
-*POST a new quote to the quotes array in data.js
+* GET a random quote from the database (in this case it is located in data.js)
+* GET all quotes from data.js
+* GET all quotes from a specific author from data.js
+* POST a new quote to the quotes array in data.js
 
