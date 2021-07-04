@@ -53,6 +53,4 @@ const quotes = [
   },
 ];
 
-module.exports = {
-  quotes
-};
+module.exports = quotes;
